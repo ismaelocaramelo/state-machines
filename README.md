@@ -55,6 +55,14 @@ TODO: Read this http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.388
 - The state transition diagram was large and difficult to read
 - State transition diagrams are not scalable
 
+## Examples
+
+TODO: https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript
+
+## Solution with statecharts
+
+TODO: https://statecharts.github.io/
+
 Ref:
 
 https://www.smashingmagazine.com/2018/01/rise-state-machines/
