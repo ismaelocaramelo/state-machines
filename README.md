@@ -32,6 +32,8 @@ State describes a particular behaviour of the machine. State is define as how th
 
 Transitions is the instantaneous transfer from one state to another.
 
+<!-- TODO: Explain this more -->
+
 ## Why we should design with state machine modelling?
 
 User interface software is event driven. Each user interface object can respond to external events such as those supplied by a user, the operating system, or the application itself.
