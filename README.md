@@ -15,6 +15,23 @@ It's a description of the status of a system that is waiting to execute a transi
 
 It’s an abstract concept whereby the machine can have different states, but at a given time fulfills only one of them.
 
+## Key concepts
+
+- Actions
+- State
+- Transitions
+
+Actions are the side-effects which happen basically in two moments:
+
+- On entry state
+- On exit state
+
+Example: Doing HTTP request on entry.
+
+State describes a particular behaviour of the machine. State is define as how the state reacts to events
+
+Transitions is the instantaneous transfer from one state to another.
+
 ## Why we should design with state machine modelling?
 
 User interface software is event driven. Each user interface object can respond to external events such as those supplied by a user, the operating system, or the application itself.
