@@ -32,8 +32,6 @@ State describes a particular behaviour of the machine. State is define as how th
 
 Transitions is the instantaneous transfer from one state to another.
 
-<!-- TODO: Explain this more -->
-
 ## Why we should design with state machine modelling?
 
 User interface software is event driven. Each user interface object can respond to external events such as those supplied by a user, the operating system, or the application itself.
@@ -57,9 +55,9 @@ Despite the amount of code that is written. The bottom-up approach code can be d
 - Make impossible states actually impossible
 - Defined execution path
 
-## Examples
+## Let's build one following the guidelines
 
-TODO: https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript
+See [Simple State Machine](./simpleStateMachine.js)
 
 ## Drawbacks of state machine
 
@@ -82,9 +80,8 @@ We can conclude:
 
 ## Solution with statecharts
 
+TODO: HERE 22 OF JUNE
 TODO: https://statecharts.github.io/
-
-Ref:
 
 https://www.smashingmagazine.com/2018/01/rise-state-machines/
 
