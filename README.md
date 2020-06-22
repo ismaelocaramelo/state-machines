@@ -57,6 +57,10 @@ Despite the amount of code that is written. The bottom-up approach code can be d
 - Make impossible states actually impossible
 - Defined execution path
 
+## Examples
+
+TODO: https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript
+
 ## Drawbacks of state machine
 
 ![](./assets/drawback_image_00.png)
@@ -75,10 +79,6 @@ We can conclude:
 - There were many duplicated states and events
 - The state transition diagram was large and difficult to read
 - State transition diagrams are not scalable
-
-## Examples
-
-TODO: https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript
 
 ## Solution with statecharts
 
