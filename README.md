@@ -80,7 +80,7 @@ We can conclude:
 
 ## Solution with statecharts
 
-TODO: HERE 22 OF JUNE
+TODO: HERE 5 OF September
 TODO: https://statecharts.github.io/
 
 https://www.smashingmagazine.com/2018/01/rise-state-machines/
