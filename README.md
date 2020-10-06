@@ -80,8 +80,20 @@ We can conclude:
 
 ## Solution with statecharts
 
-TODO: HERE 5 OF September
-TODO: https://statecharts.github.io/
+What is a statechart?
+
+> A visual formalism for complex systems (Harel, 1987)
+
+Most UIs are event driven, meaning that the user interface components themselves generate events when the user interacts with them. These events typically trigger actions attached directly to the UI components.
+
+The implementation of the UI component somehow decides what to do, what to show, what to stop doing and what to stop showing.
+
+This is called the **Event Action** paradigm, because the action is tightly coupled to the event.
+
+Concepts: https://statecharts.github.io/concepts.html
+
+TODO: HERE 6 Of October
+Start with Xtate https://xstate.js.org/docs/about/concepts.html
 
 https://www.smashingmagazine.com/2018/01/rise-state-machines/
 
