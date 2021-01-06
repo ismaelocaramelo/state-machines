@@ -1,0 +1,28 @@
+{
+  "name": "state-machines",
+  "version": "1.0.0",
+  "description": "- What is a state? - What is a state machine? - Benefits - Drackbacks - Vocabulary - Examples (bowling and others)",
+  "main": "simpleStateMachine.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaelocaramelo/state-machines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismaelocaramelo/state-machines/issues"
+  },
+  "homepage": "https://github.com/ismaelocaramelo/state-machines#readme",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@xstate/test": "^0.4.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "xstate": "^4.15.3"
+  }
+}
