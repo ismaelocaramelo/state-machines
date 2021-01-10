@@ -1,10 +1,4 @@
 
-/* 
-  Finite States --> 'Active'
-  Context --> count
-  Events --> Increment
-*/
-
 import { createMachine, assign} from "xstate";
 
 const counterMachine = createMachine({
