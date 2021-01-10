@@ -99,5 +99,3 @@ https://www.smashingmagazine.com/2018/01/rise-state-machines/
 References:
 
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3888&rep=rep1&type=pdf
-
-TODO: https://github.com/davidkpiano/frontend-masters-xstate-workshop
