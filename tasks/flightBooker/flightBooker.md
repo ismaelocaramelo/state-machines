@@ -23,5 +23,3 @@ Editing is the initial state
 Quantive data:
 
 > startDate, returnDate and trip type
-
-TODO: Pass this to code :)
