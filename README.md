@@ -7,4 +7,6 @@
 
 ## Walkthrough exercises
 
-[See](../xstate-workshop) repo
+[See](./exercises)
+
+TODO: Add exercise 2
