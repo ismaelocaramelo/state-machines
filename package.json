@@ -4,7 +4,8 @@
   "description": "- What is a state? - What is a state machine? - Benefits - Drackbacks - Vocabulary - Examples (bowling and others)",
   "main": "simpleStateMachine.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel ./exercises/**/*.html"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,10 @@
     "eslint-plugin-jest": "^24.1.3",
     "jest": "^26.6.3",
     "xstate": "^4.15.3"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "1.23.7"
   }
 }
