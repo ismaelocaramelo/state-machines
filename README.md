@@ -7,4 +7,4 @@
 
 ## Walkthrough exercises
 
-[See](../xstate-workshop)
+[See](../xstate-workshop) repo
