@@ -1,4 +1,4 @@
-const elBox = document.querySelector('#box');
+const elBox = document.querySelector("#box");
 
 // Pure function that returns the next state,
 // given the current state and sent event
@@ -20,6 +20,6 @@ function send(event) {
   elBox.dataset.state = currentState;
 }
 
-elBox.addEventListener('click', () => {
+elBox.addEventListener("click", () => {
   // send a click event
 });

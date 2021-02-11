@@ -9,4 +9,4 @@
 
 [See](./exercises)
 
-TODO: Add exercise 2
+TODO: Add exercise 3
