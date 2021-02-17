@@ -23,13 +23,6 @@ const service = interpret(machine).onTransition((state) => {
   elBox.dataset.state = state.value;
 });
 
-// Listen to state transitions and set
-// `elBox.dataset.state` to the state value as before.
-// ...
-
-// Start the service.
-// ...
-
 service.start();
 
 elBox.addEventListener("mousedown", (event) => {
